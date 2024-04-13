@@ -6,7 +6,7 @@ systems,” IEEE Wireless Commun. Lett., vol. 7, no. 5, pp. 852–855, Oct. 2018
 
 Please cite the paper when use this code.
 
-1. Install Matcovnet 
+1. Install Matconvnet 
 
     Choose the gpu version and verify you have a supported GPU and that the latest driver is installed.
 

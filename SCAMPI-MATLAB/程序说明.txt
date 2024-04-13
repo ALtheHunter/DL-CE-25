@@ -1,0 +1,5 @@
+OAMP文件夹:是我自己写的OAMP算法
+
+scampi-vs-ssd文件夹：是我自己文章中用到的程序
+
+demo文件夹：“SCAMPI-参考文献”中用到的程序
